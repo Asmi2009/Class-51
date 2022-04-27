@@ -1,0 +1,20 @@
+p
+{
+    color : #AA3377
+}
+
+.header{
+    background-color:#B1D1E7;
+    display: flex;
+    justify-content: space-between;
+}
+
+.website{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+h2,p{
+    text-align: center;
+}
